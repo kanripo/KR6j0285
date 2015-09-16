@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:22.150941
+#+DATE: 2015-08-30 20:29:22.574099
 #+TITLE: 七佛俱胝佛母心大准提陀羅尼法
 #+PROPERTY: CBETA_ID T20n1078
 #+PROPERTY: ID KR6j0285
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1078
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6j0285_T_000-0186b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0285_T_001-0186b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1078¶
-
- 七佛俱胝佛母心大准提陀羅尼¶
+No. 1078¶
+七佛俱胝佛母心大准提陀羅尼¶
 法¶
 ¶
 唐善無畏奉　詔譯¶
@@ -96,7 +95,7 @@ No.1078¶
 
 佛言若¶
 人欲長生。於古塔及深山中。或淨房內依鏡¶
-為壇。具滿二四六十萬遍。青蓮華和安悉香¶
+為壇。具滿二四六十萬遍。燒青蓮華和安悉香¶
 燒。於睡夢中夢食仙藥。或授仙方或於鏡中¶
 有五色光。光中有藥隨意取食。即得長生。¶
 
