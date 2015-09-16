@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:22.150941
+#+DATE: 2015-08-30 20:29:22.361530
 #+TITLE: 七佛俱胝佛母心大准提陀羅尼法
 #+PROPERTY: CBETA_ID T20n1078
 #+PROPERTY: ID KR6j0285
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1078
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6j0285_T_000-0186b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0285_T_001-0186b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1078¶
-
- 七佛俱胝佛母心大准提陀羅尼¶
+No. 1078¶
+七佛俱胝佛母心大准提陀羅尼¶
 法¶
 ¶
 唐善無畏奉　詔譯¶
@@ -91,7 +90,7 @@ No.1078¶
 
 佛言若人六親不和。不相愛念。依法誦¶
 呪所向和合。聞名見身皆生歡喜。凡所求無¶
-不遂心。況能結齊具戒。一心清淨依法誦¶
+不遂心。況能潔齊具戒。一心清淨依法誦¶
 持。不轉此身即證菩提有大功力。
 
 佛言若¶
