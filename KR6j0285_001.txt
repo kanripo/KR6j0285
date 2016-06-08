@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:22.574099
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:45
 #+TITLE: 七佛俱胝佛母心大准提陀羅尼法
 #+PROPERTY: CBETA_ID T20n1078
 #+PROPERTY: ID KR6j0285
